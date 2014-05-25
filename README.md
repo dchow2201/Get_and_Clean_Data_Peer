@@ -63,6 +63,6 @@ X_train.txt, y_train.txt, subject_train.txt into R
 * change - to .
 * change () to empty string
 
-9. Write tidy data set in TidyData.csv
+9. Write tidy data set in TidyData.txt
 
 
